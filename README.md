@@ -1,0 +1,1 @@
+# hotelsvendors-core
